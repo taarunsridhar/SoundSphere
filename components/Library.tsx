@@ -38,7 +38,7 @@ const Library = () => {
                     </p>
                 </div>
                 <AiOutlinePlus 
-                    onClick={onclick}
+                    // onClick={onclick}
                     size={20}
                     className="
                         text-neutral-400
